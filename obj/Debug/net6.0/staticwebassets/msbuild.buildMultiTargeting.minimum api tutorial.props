@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\minimum api tutorial.props" />
+</Project>

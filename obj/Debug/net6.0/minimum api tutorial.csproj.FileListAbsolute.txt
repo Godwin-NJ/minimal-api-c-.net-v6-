@@ -1,0 +1,68 @@
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\appsettings.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\minimum api tutorial.exe
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\minimum api tutorial.deps.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\minimum api tutorial.runtimeconfig.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\minimum api tutorial.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\minimum api tutorial.pdb
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.csproj.AssemblyReference.cache
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.AssemblyInfoInputs.cache
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.AssemblyInfo.cs
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.csproj.CoreCompileInputs.cache
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets\msbuild.minimum api tutorial.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets\msbuild.build.minimum api tutorial.props
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.minimum api tutorial.props
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.minimum api tutorial.props
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\scopedcss\bundle\minimum api tutorial.styles.css
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.csproj.CopyComplete
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\refint\minimum api tutorial.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.pdb
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\minimum api tutorial.genruntimeconfig.cache
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\obj\Debug\net6.0\ref\minimum api tutorial.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITAP006\Desktop\C#-Tut\minimum api tutorial\minimum api tutorial\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
